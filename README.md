@@ -1,8 +1,6 @@
 # Blind Navigation
 
-### Device 
-
-AMB82-mini
+### Device : AMB82-mini
 
 ### Sample Code
  - [QRCodeScanner](https://www.amebaiot.com/en/amebapro2-arduino-video-qrcode/)
